@@ -20,7 +20,18 @@ var students = [
         day: 14
       },
       Career: "IDYGS"
-    }
+    },
+    {
+      lname: "Ugalde",
+      name: "Alberto",
+      age: 21,
+      birthday: {
+        year: 2000,
+        month: "April",
+        day: 26
+      },
+      Career: "IDYGS"
+    }, 
   ]
 
 var table = document.getElementsByTagName("table")[0];
